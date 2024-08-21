@@ -4,4 +4,4 @@ numpy==1.25.2
 scikit-learn==1.3.0
 setuptools
 distutils
-
+Streamlit
